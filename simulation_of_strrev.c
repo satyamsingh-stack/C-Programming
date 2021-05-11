@@ -13,3 +13,19 @@ int main(){
 	printf("%s",st);
 	return 0;
 }
+
+
+
+
+// #include<stdio.h>
+// #include<string.h>
+// int main(){
+// 	char st[21];
+// 	scanf("%[^\n]",&st);
+// 	int i;
+// 	while(st[i])
+// 		i++;
+// 	for(i--;i>=0;i--){
+// 		putchar(st[i]);
+// 	}
+// }
