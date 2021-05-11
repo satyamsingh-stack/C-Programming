@@ -8,3 +8,14 @@ void main(){
 	}
 	printf("%d",s);
 }
+
+
+// #include<stdio.h>
+// int main(){
+// 	char st[21];
+// 	int i;
+// 	gets(st);
+// 	while(st[i])
+// 		i++;
+// 	printf("%d",i);
+// }
